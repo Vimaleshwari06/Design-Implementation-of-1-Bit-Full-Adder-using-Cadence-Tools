@@ -50,10 +50,6 @@ ii)	Create Schematic Cell view.
 
 ![Screenshot 2024-11-18 154310](https://github.com/user-attachments/assets/94bba636-8345-4df9-b859-05e6dc4ce080)
 
-```
-print(dh)
-```
-
 
  
 iii)	Creating the Symbol for schematic Cell view
